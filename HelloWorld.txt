@@ -1,4 +1,7 @@
 hello world!
-this is aaron's first git program。
 
-#this is aaron second time vim helloword.txt
+
+this is aaron's THIRD git program。
+
+#this is aaron third time vim helloword.txt
+#today is 2023/03/27 i will finish this part and file all note!
